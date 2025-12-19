@@ -13,7 +13,7 @@ jobs:
 
     defaults:
       run:
-        working-directory: euler_lab2
+        working-directory: euler_lab3
 
     steps:
     - name: Checkout repository
